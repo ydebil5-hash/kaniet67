@@ -1,0 +1,6 @@
+void main() {
+  const String charName = 'Каниет';
+  const int charAge = 19;
+  const double charHeight = 1.78;
+  print('Имя: $charName, Возраст: $charAge, Рост: $charHeight м');
+}
